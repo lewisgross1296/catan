@@ -1,0 +1,8 @@
+pseudo-random roll generator that stores roll set, seed for repeatability
+  possibly gui for this
+user input rolls
+  on go
+  whole set
+compute expected number of each roll
+possibly run statistical test (hypothesis test) to say game is normal or not
+  if not whole game, test each number individually
